@@ -1,0 +1,19 @@
+{
+  "name": "firstnodescript",
+  "version": "1.0.0",
+  "description": "First Node.js Script",
+  "main": "BiotyperReq.js",
+  "scripts": {
+    "test": "nmn start command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninabina921/OneBaltimore.git"
+  },
+  "author": "Nina Mezu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninabina921/OneBaltimore/issues"
+  },
+  "homepage": "https://github.com/ninabina921/OneBaltimore#readme"
+}
